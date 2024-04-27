@@ -1,3 +1,2 @@
-In the project directory, you can run:
-
+Для запуска проекта:
 ### `npm start`
